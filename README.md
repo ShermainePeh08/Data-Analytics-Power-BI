@@ -1,4 +1,4 @@
-# Data-Analytics-Power-BI
+# Data-Analytics-Project-Power-BI
 Hypothesis: Singapore is a good place to live or work in. 
 
 ## Target Users 
