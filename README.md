@@ -12,4 +12,4 @@ Based on our stakeholder’s interview, we learned that many are unsure of Singa
 - Shermaine -->  Healthcare, Design, Merging 
 - Shi Min --> Recreation , Economy
 - Andrew --> Transportation, Security 
-- Zhang Xiang --> Consumer Goods & Education 
+- Zhang Xiang --> Consumer Goods, Education 
