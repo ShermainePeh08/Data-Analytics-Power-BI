@@ -1,4 +1,4 @@
-# Data Analytics Project Power BI
+# Power BI Data Analytics
 Hypothesis: Singapore is a good place to live or work in. 
 
 ## Target Users 
