@@ -1,6 +1,6 @@
 # Power BI Data Analytics
-Hypothesis: Singapore is a good place to live or work in. 
-Analysis on the above hypothesis using Power BI
+- Hypothesis: Singapore is a good place to live or work in. 
+- Analysis on the above hypothesis using Power BI
 
 ## Target Users 
 Our group decided on a stakeholder group comprised of Singaporean graduates aged 16 to 21, holding either an O Level certificate, Diploma, or both. 
