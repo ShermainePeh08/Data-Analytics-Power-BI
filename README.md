@@ -57,7 +57,7 @@ The final image uses a map to illustrate the locations of various polyclinics. A
 Overall, based on healthcare, Singapore is a good place to live and work in. Singapore has put much effort to make healthcare accessible, affordable, and of high quality. With the many facilities and accessibility, healthcare in Singapore is definitely more expensive. The government, however, has provided numerous grants to aid in achieving affordability in healthcare. Despite Singapore’s efforts to boost the number of professionals by increasing the number of healthcare graduates every year, the waiting time and the number of professionals could definitely still be improved, to curb the long waiting times patients face. 
 
 ## Roles 
-- Shermaine -->  Healthcare, Design, Merging 
-- Shi Min --> Recreation , Economy
-- Andrew --> Transportation, Security 
-- Zhang Xiang --> Consumer Goods, Education 
+- <strong>Shermaine</strong>: Healthcare, Design, Merging 
+- <strong>Shi Min</strong>: Recreation , Economy
+- <strong>Andrew</strong>: Transportation, Security 
+- <strong>Zhang Xiang</strong>: Consumer Goods, Education 
